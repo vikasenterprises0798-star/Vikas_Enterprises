@@ -1,0 +1,12 @@
+Kindly do some enhancements on the website:
+
+At the website starting you have given a logo instead of that could we give some kind of dashboard or something else think hard about it.
+"The range we stock" in this section under the search box the products are like overlapping the search box itself so kindly see if we could change the alignment and make it look spacious and ordered.
+"Ballpark your order" in this section, you have only given 4 categories for price estimation, Pocket tapes, Long tapes, Spirit levels, Hand files - include all the categories listed above also like the screws, fastners.
+"Your enquiry" - In this section include the whatsapp number (+919412203849)
+"Visit or write to us" - In this section a. under the email, the complete email address is lengthy so it is going outside the box so look into it and compact it so that it stays inside the box only.
+b. Add one more box in this section named "Business Profile" - Vikas Enterprises and upon clicking it redirect users to google's business profile link: https://share.google/OlAiaBeWpNlMkPAnA
+c. Also Add one more box named Udyam Number: UDYAM-UP-56-0175291
+
+Design a favicon for this website which is very ultra clear and embbed the same in the website.
+Share the updated website post above enhancements.

@@ -1,0 +1,4 @@
+Need a few more enhancements:
+
+"Visit or write to us" - in this section the box sizes are uneven make them look equal and similar irrespective of the quantity of the content inside the box, them should be similar in size.
+Remove the Vikas Enterprises Logo from the footer.
